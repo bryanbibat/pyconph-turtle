@@ -22,7 +22,7 @@ def draw_e():
     turtle.forward(100)
 
 turtle.penup()
-turtle.right(135)
+turtle.right(180)
 turtle.forward(125)
 turtle.pendown()
 turtle.right(225)
