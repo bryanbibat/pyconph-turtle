@@ -15,7 +15,7 @@ def draw_f():
 
 def draw_e():
     draw_f()
-    turtle.forward(50)
+    turtle.forward(500)
 
 turtle.penup()
 turtle.right(180)
