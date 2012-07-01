@@ -1,8 +1,6 @@
 import turtle
 
 def draw_f():
-    turtle.left(90)
-    turtle.forward(100)
     turtle.right(90)
     turtle.forward(100)
     turtle.right(180)
